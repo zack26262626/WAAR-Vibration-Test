@@ -1,6 +1,8 @@
 # KAF Drone Flight Control Software
 This is the repositorry for an ESP32 based quadcopter flight controller written in C-like C++ designed for the Washington Aerial Robotics RSO at University of Washington. This flight software is capable of semi-autonomous flight, swarm coordination with other quadcopters, and custom input control. It is able to execute 4-th order polynomial trajectories, position waypoints, direct acceleration control, and manual mode inputs. Some additional features include a web-based ground station and manual controller as well as both indoor and GPS position tracking.
 
+This fork of the repo is just to test vibrations.
+
 ## Setup Instructions
 
 1. Download the contents of the ```waar-iarc-m10/ESP32/KAF_Drone``` directory from the WAAR GitHub [repository](https://github.com/Washington-Aerial-Robotics/waar-iarc-m10/tree/main/ESP32/KAF_Drone), and extract its contents if necessary.
